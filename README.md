@@ -25,7 +25,6 @@ The generator is trained to produce samples that can fool the discriminator. The
 
 The training progress is monitored, and the losses of both the discriminator and the generator are recorded. Here are some examples:
 
-```plaintext
 Epoch: 197, Step: 450, D-Loss: 0.615, D-Acc: 65.000, G-Loss: 0.965
 Epoch: 198, Step: 0, D-Loss: 0.641, D-Acc: 66.000, G-Loss: 0.987
 ...
